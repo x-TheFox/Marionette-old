@@ -1,0 +1,6 @@
+{
+  "name": "Marionette — Goal-Directed Stockfish",
+  "description": "Goal-directed Stockfish chess engine steered by natural-language objectives, structured DSL plans, and real-time multi-PV evaluation guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
